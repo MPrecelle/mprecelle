@@ -1,31 +1,41 @@
 <h1 align="center">Hi 👋, I'm Martín Precelle</h1>
 
 <p align="center">
-  <strong>Software Engineer (Backend-focused)</strong><br/>
-  Node.js / NestJS / TypeScript • PostgreSQL • AWS • Scalable APIs • AI Automation
+  <strong>Lead Engineer @ ContactShip</strong><br/>
+  Technical Leadership • System Design • Node.js / NestJS / TypeScript • PostgreSQL • AWS • AI Automation
 </p>
 
 <p align="center">
-  I build reliable backend systems, authentication flows, and developer-friendly APIs — with a strong focus on scalability, maintainability, and product impact.
+  I lead engineering and build reliable backend systems, authentication flows, and developer-friendly APIs — with a focus on scalability, maintainability, and product impact. I care equally about clean architecture and shipping things that move the business.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 💼 **Backend Developer @ Henry**
-- 🧠 Backend-focused engineer with experience building **scalable APIs**, **auth systems**, and **microservices**
+- 🧭 **Lead Engineer @ ContactShip**, owning technical direction, architecture, and team delivery
+- 🧠 Backend-focused engineer with deep experience in **scalable APIs**, **auth systems**, and **microservices**
 - ⚙️ Strong in **NestJS, TypeScript, PostgreSQL, AWS**, and event-driven architectures
-- 🤖 Interested in **AI integrations**, **automation**, and practical AI-powered products
-- 🌱 Currently improving in **Next.js**, **serverless patterns (AWS Lambda)**, and **system design**
-- 🧩 I enjoy solving product/engineering problems with a balance of **clean code** and **business thinking**
+- 🤝 I mentor engineers, run technical reviews, and translate product goals into solid engineering plans
+- 🤖 Building **AI integrations**, **automation**, and practical AI-powered products
+- 🌱 Currently going deeper on **Next.js 15 (App Router)**, **serverless patterns**, and **large-scale system design**
 - 🇦🇷 Based in Argentina
 - 📫 Reach me at **tinchoprecelle@gmail.com**
 
 ---
 
+## 🧩 What I Bring as a Lead
+
+- **Technical direction** — defining architecture, setting standards, and making pragmatic trade-offs
+- **Team enablement** — mentoring, code reviews, and onboarding engineers
+- **Delivery ownership** — breaking down ambiguous problems into shippable, well-scoped work
+- **Product thinking** — balancing engineering quality with real business outcomes
+
+---
+
 ## 💬 Ask Me About
 
+- Leading and growing **backend / full-stack teams**
 - Backend development with **Node.js / NestJS**
 - API design (**REST**, auth flows, validation, error handling)
 - **Authentication & Authorization** (Cognito / SSO / JWT-based flows)
@@ -53,10 +63,11 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
 </p>
 
-### Frontend (for full-stack/product work)
+### Frontend (full-stack / product work)
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>
 </p>
 
 ---
@@ -80,9 +91,9 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=martin-precelle&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MPrecelle&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martin-precelle&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MPrecelle&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
